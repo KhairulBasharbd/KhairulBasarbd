@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khairulbasharbd" alt="khairulbasharbd" /></a> </p>
 
-- 🔭 I’m currently working on [Smart Parcel Delivery System and Learning management system](https://github.com/KhairulBasharbd/Smart-Parcel-delivery-System https://github.com/KhairulBasharbd/learning-management-system)
+- 🔭 I’m currently working on [Smart Parcel Delivery System](https://github.com/KhairulBasharbd/Smart-Parcel-delivery-System) and [Learning management system](https://github.com/KhairulBasharbd/learning-management-system)
 
 - 💬 Ask me about **Spring Boot**
 

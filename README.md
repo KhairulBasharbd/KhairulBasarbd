@@ -1,5 +1,5 @@
 <h1 align="center">Assalamualaikum 👋, I'm Khairul Basar</h1>
-<h3 align="center">A passionate java developer from Bangladeshadesh.</h3>
+<h3 align="center">A passionate java developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khairulbasharbd&label=Profile%20views&color=0e75b6&style=flat" alt="khairulbasharbd" /> </p>
 
